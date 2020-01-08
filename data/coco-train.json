@@ -96,7 +96,7 @@
 {"id": 100, "dataset_id": 1, "path": "/datasets/irises_rebind/1_14_2.jpg", "width": 1350, "height": 1350, "file_name": "1_14_2.jpg"},
 {"id": 101, "dataset_id": 1, "path": "/datasets/irises_rebind/1_15_1.jpg", "width": 1350, "height": 1350, "file_name": "1_15_1.jpg"},
 {"id": 102, "dataset_id": 1, "path": "/datasets/irises_rebind/1_15_2_result.jpg", "width": 1350, "height": 1350, "file_name": "1_15_2_result.jpg", 
-"id": 103, "dataset_id": 1, "path": "/datasets/irises_rebind/1_16_1_result.jpg", "width": 1350, "height": 1350, "file_name": "1_16_1_result.jpg"},
+{"id": 103, "dataset_id": 1, "path": "/datasets/irises_rebind/1_16_1_result.jpg", "width": 1350, "height": 1350, "file_name": "1_16_1_result.jpg"},
 {"id": 104, "dataset_id": 1, "path": "/datasets/irises_rebind/1_16_2_result.jpg", "width": 1350, "height": 1350, "file_name": "1_16_2_result.jpg"},
 {"id": 105, "dataset_id": 1, "path": "/datasets/irises_rebind/1_17_1_result.jpg", "width": 1350, "height": 1350, "file_name": "1_17_1_result.jpg"},
 {"id": 106, "dataset_id": 1, "path": "/datasets/irises_rebind/1_17_2.jpg", "width": 1350, "height": 1350, "file_name": "1_17_2.jpg"},
@@ -158,7 +158,7 @@
 {"id": 162, "dataset_id": 1, "path": "/datasets/irises_rebind/1_57_1_result.jpg", "width": 1350, "height": 1350, "file_name": "1_57_1_result.jpg"},
 {"id": 163, "dataset_id": 1, "path": "/datasets/irises_rebind/1_59_2_result.jpg", "width": 1350, "height": 1350, "file_name": "1_59_2_result.jpg"}
 ], 
-categories": 
+"categories": 
 [
 {"id": 1, "name": "brown background", "supercategory": "", "color": "#996df6", "metadata": {}},
 {"id": 2, "name": "brown spot", "supercategory": "", "color": "#8a68f3", "metadata": {}},
