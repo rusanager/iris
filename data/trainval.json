@@ -41,7 +41,7 @@
 {"id": 40, "dataset_id": 1, "path": "/datasets/irises_rebind/1_1176.1_2_result.jpg", "width": 1350, "height": 1350, "file_name": "1_1176.1_2_result.jpg"},
 {"id": 41, "dataset_id": 1, "path": "/datasets/irises_rebind/1_1176.2_2_result.jpg", "width": 1350, "height": 1350, "file_name": "1_1176.2_2_result.jpg"},
 {"id": 42, "dataset_id": 1, "path": "/datasets/irises_rebind/1_1176_2_result.jpg", "width": 1350, "height": 1350, "file_name": "1_1176_2_result.jpg"},
-{"id": 44, "dataset_id": 1, "path": "/datasets/irises_rebind/1_1188.1_2_result.jpg", "width": 1350, "height": 1350, "file_name": "1_1188.1_2_result.pg"}, 
+{"id": 44, "dataset_id": 1, "path": "/datasets/irises_rebind/1_1188.1_2_result.jpg", "width": 1350, "height": 1350, "file_name": "1_1188.1_2_result.jpg"}, 
 {"id": 45, "dataset_id": 1, "path": "/datasets/irises_rebind/1_1188_2_result.jpg", "width": 1350, "height": 1350, "file_name": "1_1188_2_result.jpg"},
 {"id": 46, "dataset_id": 1, "path": "/datasets/irises_rebind/1_1194.1_1_result.jpg", "width": 1350, "height": 1350, "file_name": "1_1194.1_1_result.jpg"},
 {"id": 47, "dataset_id": 1, "path": "/datasets/irises_rebind/1_1194.2_1_result.jpg", "width": 1350, "height": 1350, "file_name": "1_1194.2_1_result.jpg"},
