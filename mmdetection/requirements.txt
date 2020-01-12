@@ -1,10 +1,10 @@
-albumentations>=0.3.2
+albumentations
 imagecorruptions
 matplotlib
-mmcv>=0.2.15
+mmcv
 numpy
 pycocotools
 six
 terminaltables
-torch>=1.1
+torch
 torchvision
