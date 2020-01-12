@@ -179,7 +179,7 @@
 {"id": 15, "name": "long beam", "supercategory": "", "color": "#2c96dc", "metadata": {}},
 {"id": 16, "name": "radiance", "supercategory": "", "color": "#26d230", "metadata": {}},
 {"id": 17, "name": "CTP", "supercategory": "", "color": "#10ea7b", "metadata": {}},
-{"id": 18, "name": "pepper", "supercategory": "", "color": "#c3089e", "metadata": {}}], 
+{"id": 18, "name": "pepper", "supercategory": "", "color": "#c3089e", "metadata": {}}
 ], 
 "annotations": 
 [
