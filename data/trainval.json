@@ -171,7 +171,15 @@
 {"id": 7, "name": "headphones", "supercategory": "", "color": "#342ec9", "metadata": {}},
 {"id": 8, "name": "white flakes", "supercategory": "", "color": "#1cd7f8", "metadata": {}},
 {"id": 9, "name": "sodium ring", "supercategory": "", "color": "#53d60d", "metadata": {}},
-{"id": 10, "name": "lacunae's area", "supercategory": "", "color": "#80ff00", "metadata": {}}
+{"id": 10, "name": "lacunae's area", "supercategory": "", "color": "#80ff00", "metadata": {}},
+{"id": 11, "name": "rhombus", "supercategory": "", "color": "#0080ff", "metadata": {}},
+{"id": 12, "name": "the band is thick", "supercategory": "", "color": "#dd715a", "metadata": {}},
+{"id": 13, "name": "lacunae inside AK", "supercategory": "", "color": "#15db2c", "metadata": {}},
+{"id": 14, "name": "area between two AK", "supercategory": "", "color": "#f2a328", "metadata": {}},
+{"id": 15, "name": "long beam", "supercategory": "", "color": "#2c96dc", "metadata": {}},
+{"id": 16, "name": "radiance", "supercategory": "", "color": "#26d230", "metadata": {}},
+{"id": 17, "name": "CTP", "supercategory": "", "color": "#10ea7b", "metadata": {}},
+{"id": 18, "name": "pepper", "supercategory": "", "color": "#c3089e", "metadata": {}}], 
 ], 
 "annotations": 
 [
